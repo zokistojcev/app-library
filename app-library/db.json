@@ -1,0 +1,203 @@
+{
+    "books": [{
+        "id": 1,
+        "title": "Ulysses",
+        "publisher": "Penguin Books",
+        "year": 1911,
+        "lengthInPages": 987,
+        "isbn": 1234,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": {
+            "author": "James Joyce",
+            "isPartOfSeries": false,
+            "series": null,
+            "seriesNumber": null
+        },
+        "anthology": null
+    }, {
+        "id": 2,
+        "title": "The Great Gatsby",
+        "publisher": "Penguin Books",
+        "year": 1922,
+        "lengthInPages": 199,
+        "isbn": 1567,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": {
+            "author": "F. Scott Fitzgerald",
+            "isPartOfSeries": false,
+            "series": null,
+            "seriesNumber": null
+        },
+        "anthology": null
+    }, {
+        "id": 3,
+        "title": "Lolita",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 1,
+        "isbn": 1,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": {
+            "author": "Vladimir Nabokov",
+            "isPartOfSeries": false,
+            "series": null,
+            "seriesNumber": null
+        },
+        "anthology": null
+    }, {
+        "id": 4,
+        "title": "The Call of the Wild",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 1,
+        "isbn": 1,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": {
+            "author": "Jack London",
+            "isPartOfSeries": false,
+            "series": null,
+            "seriesNumber": null
+        },
+        "anthology": null
+    }, {
+        "id": 5,
+        "title": "The Magnificent Ambersons",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 1,
+        "isbn": 1,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": {
+            "author": "Booth Tarkington",
+            "isPartOfSeries": false,
+            "series": null,
+            "seriesNumber": null
+        },
+        "anthology": null
+    }, {
+        "id": 6,
+        "title": "The Vintage Book of Contemporary American Short Stories",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 253,
+        "isbn": 1785,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": null,
+        "anthology": {
+            "editor": "Tobias Wolff",
+            "storiesIncluded": [{
+                "titleOfStory": "River of names",
+                "author": "Dorothy Allison",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "All the way in Flagstaff, Arizona",
+                "author": "Richard Bausch",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "A vintage Thunderbird",
+                "author": "Ann Beattie",
+                "isOriginal": false
+            }]
+        }
+    }, {
+        "id": 7,
+        "title": "The Pushcart Prize: Best of the Small Presses (annual)",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 253,
+        "isbn": 1785,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": null,
+        "anthology": {
+            "editor": "Bill Henderson",
+            "storiesIncluded": [{
+                "titleOfStory": "River of names",
+                "author": "Dorothy Allison",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "All the way in Flagstaff, Arizona",
+                "author": "Richard Bausch",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "A vintage Thunderbird",
+                "author": "Ann Beattie",
+                "isOriginal": false
+            }]
+        }
+    }, {
+        "id": 8,
+        "title": "The Year’s Best Science Fiction and Fantasy (annual)",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 253,
+        "isbn": 1785,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": null,
+        "anthology": {
+            "editor": "Rich Horton",
+            "storiesIncluded": [{
+                "titleOfStory": "River of names",
+                "author": "Dorothy Allison",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "All the way in Flagstaff, Arizona",
+                "author": "Richard Bausch",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "A vintage Thunderbird",
+                "author": "Ann Beattie",
+                "isOriginal": false
+            }]
+        }
+    }, {
+        "id": 9,
+        "title": "The Year’s Best Dark Fantasy and Horror (annual)",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 253,
+        "isbn": 1785,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": null,
+        "anthology": {
+            "editor": "Paula Guran",
+            "storiesIncluded": [{
+                "titleOfStory": "River of names",
+                "author": "Dorothy Allison",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "All the way in Flagstaff, Arizona",
+                "author": "Richard Bausch",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "A vintage Thunderbird",
+                "author": "Ann Beattie",
+                "isOriginal": false
+            }]
+        }
+    }, {
+        "id": 10,
+        "title": "The Best Horror of the Year (annual)",
+        "publisher": "Penguin Books",
+        "year": 1,
+        "lengthInPages": 253,
+        "isbn": 1785,
+        "review": "Bacon ipsum dolor amet pancetta pastrami cupim pork loin tongue, shankle tail. Shoulder doner beef ribs, turducken jerky pancetta",
+        "novel": null,
+        "anthology": {
+            "editor": "Ellen Datlow",
+            "storiesIncluded": [{
+                "titleOfStory": "River of names",
+                "author": "Dorothy Allison",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "All the way in Flagstaff, Arizona",
+                "author": "Richard Bausch",
+                "isOriginal": true
+            }, {
+                "titleOfStory": "A vintage Thunderbird",
+                "author": "Ann Beattie",
+                "isOriginal": false
+            }]
+        }
+    }]
+}
